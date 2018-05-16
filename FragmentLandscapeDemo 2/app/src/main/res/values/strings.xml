@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FragmentLandscapeDemo</string>
+    <string name="admin">Administrator</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+
+    <string-array name="people">
+        <item>@string/admin</item>
+        <item>@string/teacher</item>
+        <item>@string/student</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
